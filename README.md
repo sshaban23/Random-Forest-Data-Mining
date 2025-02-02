@@ -4,6 +4,7 @@ A1: PROPOSAL OF QUESTION:
 
 My research question is: 'What factors contribute to customer churn?' To analyze this, I used a Random Forest model, which is a robust machine learning technique that helps identify the key factors influencing whether customers decide to leave the service.
 
+
 A2: DEFINED GOAL:
 
 My goal for this data analysis is to identify the key factors that influence whether a customer will churn or not. By examining various attributes such as demographics, geographic location, service usage, and customer interactions, I aim to pinpoint which variables are most strongly associated with customer churn. Understanding these factors will help me develop strategies to retain customers and improve overall satisfaction. This analysis is achievable with the data I have, as it includes comprehensive details about each customer's profile and their service history.
