@@ -2,7 +2,8 @@
 
 A1: PROPOSAL OF QUESTION:
 
-My research question is: 'What factors contribute to customer churn?' To analyze this, I used a Random Forest model, which is a robust machine learning technique that helps identify the key factors influencing whether customers decide to leave the service.
+My research question is: 
+'What factors contribute to customer churn?' To analyze this, I used a Random Forest model, which is a robust machine learning technique that helps identify the key factors influencing whether customers decide to leave the service.
 
 
 A2: DEFINED GOAL:
